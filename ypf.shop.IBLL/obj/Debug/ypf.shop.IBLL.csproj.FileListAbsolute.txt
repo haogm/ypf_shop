@@ -1,0 +1,9 @@
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\bin\Debug\ypf.shop.IBLL.dll
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\bin\Debug\ypf.shop.IBLL.pdb
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\obj\Debug\ypf.shop.IBLL.dll
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\obj\Debug\ypf.shop.IBLL.pdb
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\bin\Debug\ypf.shop.Model.dll
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\bin\Debug\EntityFramework.dll
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\bin\Debug\ypf.shop.Model.pdb
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\bin\Debug\EntityFramework.xml
+d:\ypf_shop\ypf_shop\ypf.shop.IBLL\obj\Debug\ypf.shop.IBLL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.DAL.dll
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.DAL.pdb
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\obj\Debug\ypf.shop.DAL.csprojResolveAssemblyReference.cache
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\obj\Debug\ypf.shop.DAL.dll
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\obj\Debug\ypf.shop.DAL.pdb
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\EntityFramework.dll
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.IDAL.dll
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.Model.dll
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.IDAL.pdb
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.Model.pdb
+d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\EntityFramework.xml
