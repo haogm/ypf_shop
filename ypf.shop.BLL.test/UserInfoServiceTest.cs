@@ -13,8 +13,7 @@ namespace ypf.shop.BLL.test
             UserInfoService userInfoService=new UserInfoService();
             UserInfo userInfo = new UserInfo()
             {
-                DeleteFlag = 1,
-                Email = "ypf@126.com",
+                DeleteFlag = 1,Email = "ypf@126.com",
                 LoginCode = "ypf",
                 ModifiedDateTime = DateTime.Now,
                 Password = "123123"

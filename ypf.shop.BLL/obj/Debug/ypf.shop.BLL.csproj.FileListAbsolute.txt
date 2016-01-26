@@ -13,3 +13,5 @@ d:\ypf_shop\ypf_shop\ypf.shop.BLL\bin\Debug\ypf.shop.IBLL.pdb
 d:\ypf_shop\ypf_shop\ypf.shop.BLL\bin\Debug\ypf.shop.IDAL.pdb
 d:\ypf_shop\ypf_shop\ypf.shop.BLL\bin\Debug\ypf.shop.Model.pdb
 d:\ypf_shop\ypf_shop\ypf.shop.BLL\bin\Debug\EntityFramework.xml
+D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.BLL.dll
+D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.BLL.pdb

@@ -9,3 +9,5 @@ d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.Model.dll
 d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.IDAL.pdb
 d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\ypf.shop.Model.pdb
 d:\ypf_shop\ypf_shop\ypf.shop.DAL\bin\Debug\EntityFramework.xml
+D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.DAL.dll
+D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.DAL.pdb

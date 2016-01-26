@@ -43,6 +43,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\CodeLibrary\EntityFramework.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
       <Private>True</Private>
@@ -64,6 +67,18 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
+    <Reference Include="ypf.shop.BLL">
+      <HintPath>..\CodeLibrary\ypf.shop.BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ypf.shop.IBLL">
+      <HintPath>..\CodeLibrary\ypf.shop.IBLL.dll</HintPath>
+    </Reference>
+    <Reference Include="ypf.shop.IDAL">
+      <HintPath>..\CodeLibrary\ypf.shop.IDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="ypf.shop.Model">
+      <HintPath>..\CodeLibrary\ypf.shop.Model.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Web.Razor">

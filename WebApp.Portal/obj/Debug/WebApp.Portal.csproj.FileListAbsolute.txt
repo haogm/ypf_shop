@@ -31,3 +31,15 @@ d:\ypf_shop\ypf_shop\WebApp.Portal\bin\System.Web.Mvc.xml
 d:\ypf_shop\ypf_shop\WebApp.Portal\obj\Debug\WebApp.Portal.csprojResolveAssemblyReference.cache
 d:\ypf_shop\ypf_shop\WebApp.Portal\obj\Debug\WebApp.Portal.dll
 d:\ypf_shop\ypf_shop\WebApp.Portal\obj\Debug\WebApp.Portal.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\EntityFramework.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.BLL.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.IBLL.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.IDAL.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.Model.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.DAL.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\EntityFramework.xml
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.BLL.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.IBLL.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.IDAL.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.Model.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.DAL.pdb

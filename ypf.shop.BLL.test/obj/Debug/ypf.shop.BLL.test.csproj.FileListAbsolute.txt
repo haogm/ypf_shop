@@ -17,4 +17,4 @@ d:\ypf_shop\ypf_shop\ypf.shop.BLL.test\bin\Debug\zh-Hans\Microsoft.VisualStudio.
 d:\ypf_shop\ypf_shop\ypf.shop.BLL.test\obj\Debug\ypf.shop.BLL.test.csprojResolveAssemblyReference.cache
 d:\ypf_shop\ypf_shop\ypf.shop.BLL.test\obj\Debug\ypf.shop.BLL.test.dll
 d:\ypf_shop\ypf_shop\ypf.shop.BLL.test\obj\Debug\ypf.shop.BLL.test.pdb
-d:\ypf_shop\ypf_shop\ypf.shop.BLL.test\bin\Debug\ypf.shop.BLL.test.dll.config
+D:\ypf_shop\ypf_shop\ypf.shop.BLL.test\bin\Debug\ypf.shop.BLL.test.dll.config
