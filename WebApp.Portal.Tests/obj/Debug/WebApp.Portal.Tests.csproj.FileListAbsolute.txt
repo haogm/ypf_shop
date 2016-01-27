@@ -42,3 +42,7 @@ D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.IDAL.pdb
 D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.IBLL.pdb
 D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.DAL.pdb
 D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\EntityFramework.xml
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\log4net.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\log4net.xml
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.Common.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.Common.pdb

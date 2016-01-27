@@ -43,3 +43,7 @@ D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.IBLL.pdb
 D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.IDAL.pdb
 D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.Model.pdb
 D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.DAL.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\log4net.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\log4net.xml
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.Common.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal\bin\ypf.shop.Common.pdb
