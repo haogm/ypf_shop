@@ -1,0 +1,39 @@
+﻿@model ypf.shop.Model.UserInfo
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>AdminAreaRegistration</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @Html.HiddenFor(u=>u.Id)
+                @Html.Label("姓名：")
+                @Html.TextBoxFor(u => u.UserName)<br/>
+                @Html.Label("邮箱：")
+                @Html.TextBoxFor(u => u.Email)<br/>
+                @Html.Label("备注：")
+                @Html.TextBoxFor(u => u.Remark)<br/>
+                <input type="submit" value="保存" class="btn btn-default"/>
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

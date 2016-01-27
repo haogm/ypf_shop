@@ -30,3 +30,15 @@ d:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudi
 d:\ypf_shop\ypf_shop\WebApp.Portal.Tests\obj\Debug\WebApp.Portal.Tests.csprojResolveAssemblyReference.cache
 d:\ypf_shop\ypf_shop\WebApp.Portal.Tests\obj\Debug\WebApp.Portal.Tests.dll
 d:\ypf_shop\ypf_shop\WebApp.Portal.Tests\obj\Debug\WebApp.Portal.Tests.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.BLL.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.Model.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.IDAL.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.IBLL.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.DAL.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\EntityFramework.dll
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.BLL.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.Model.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.IDAL.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.IBLL.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\ypf.shop.DAL.pdb
+D:\ypf_shop\ypf_shop\WebApp.Portal.Tests\bin\Debug\EntityFramework.xml

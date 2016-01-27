@@ -47,7 +47,7 @@ namespace ypf.shop.BLL
         /// <returns></returns>
         public virtual bool Delete(TG entity)
         {
-            return CurrentRepository.Add(entity);
+            return CurrentRepository.Delete(entity);
         }
 
         /// <summary>
@@ -67,7 +67,7 @@ namespace ypf.shop.BLL
         /// <returns></returns>
         public virtual bool Add(TG entity)
         {
-            return CurrentRepository.Add(entity);
+            return CurrentRepository.Delete(entity);
         }
 
         /// <summary>

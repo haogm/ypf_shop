@@ -1,5 +1,4 @@
 D:\ypf_shop\ypf_shop\ypf.shop.Common\bin\Debug\ypf.shop.Common.dll
 D:\ypf_shop\ypf_shop\ypf.shop.Common\bin\Debug\ypf.shop.Common.pdb
-D:\ypf_shop\ypf_shop\ypf.shop.Common\obj\Debug\ypf.shop.Common.csprojResolveAssemblyReference.cache
 D:\ypf_shop\ypf_shop\ypf.shop.Common\obj\Debug\ypf.shop.Common.dll
 D:\ypf_shop\ypf_shop\ypf.shop.Common\obj\Debug\ypf.shop.Common.pdb

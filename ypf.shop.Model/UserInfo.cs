@@ -7,6 +7,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using System.ComponentModel.DataAnnotations;
+
 namespace ypf.shop.Model
 {
     using System;
@@ -15,6 +17,7 @@ namespace ypf.shop.Model
     public partial class UserInfo
     {
         public int Id { get; set; }
+        [Required(ErrorMessage = "用户名不能为空")]
         public string UserName { get; set; }
         public string LoginCode { get; set; }
         public string Password { get; set; }

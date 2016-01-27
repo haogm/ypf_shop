@@ -1,0 +1,81 @@
+﻿@model IEnumerable<ypf.shop.Model.UserInfo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("新建", "Create")
+</p>
+<table id="tableList">
+    <tr>
+        <td>ID</td>
+        <td>姓名</td>
+        <td>邮箱</td>
+        <td>操作</td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {id = item.Id}) |
+                @Html.ActionLink("Details", "Details", new {id = item.Id}) |
+                @Html.ActionLink("Delete", "Delete", new {id = item.Id})
+            </td>
+        </tr>
+    }
+
+</table>
+<style type="text/css">
+    /*数据显示表格*/
+    #tableList {
+        border: 1px solid #0094ff;
+        margin: 5px auto;
+        width: 60%;
+        border-collapse: collapse;
+    }
+        /*数据显示，单元格*/
+        #tableList td {
+            border: 1px solid #0094ff;
+            padding: 20px;
+        }
+    /*背景阴影*/
+    #beijing {
+        width: 100%;
+        height: 100%;
+        background-color: gray;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        filter: alpha(opacity=50); /*通过滤镜效果改变透明度*/
+        display: none;
+    }
+    /*增加数据表格*/
+    #tbAdd {
+        border: 1px solid #ff6a00;
+        background-color: #00ff90;
+        width: 300px;
+        height: 200px;
+        position: absolute;
+        left: 41%;
+        top: 30%;
+        display: none;
+    }
+        /*增加表格，单元格样式*/
+        #tbAdd td {
+            padding: 2px 10px;
+        }
+</style>
+
