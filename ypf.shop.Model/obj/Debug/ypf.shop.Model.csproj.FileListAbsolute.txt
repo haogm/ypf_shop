@@ -16,3 +16,4 @@ D:\ypf_shop\ypf_shop\ypf.shop.Model\~\CodeLibrary\EntityFramework.xml
 D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.Model.dll.config
 D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.Model.dll
 D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.Model.pdb
+D:\ypf_shop\ypf_shop\ypf.shop.Model\obj\Debug\ypf.shop.Model.csprojResolveAssemblyReference.cache

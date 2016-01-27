@@ -8,3 +8,4 @@ d:\ypf_shop\ypf_shop\ypf.shop.IBLL\bin\Debug\ypf.shop.Model.pdb
 d:\ypf_shop\ypf_shop\ypf.shop.IBLL\bin\Debug\EntityFramework.xml
 D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.IBLL.dll
 D:\ypf_shop\ypf_shop\CodeLibrary\ypf.shop.IBLL.pdb
+D:\ypf_shop\ypf_shop\ypf.shop.IBLL\obj\Debug\ypf.shop.IBLL.csprojResolveAssemblyReference.cache
